@@ -34,7 +34,9 @@
 
 <br clear="both">
 
-<div class="tenor-gif-embed" data-postid="20202201" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/hacking-gif-20202201">Hacking GIF</a>from <a href="https://tenor.com/search/hacking-gifs">Hacking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img height="200" src="https://tenor.com/bwVF7.gif"  />
+</div>
 
 ###
 
