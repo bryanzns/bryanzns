@@ -1,3 +1,4 @@
+![35 Sem Título_20250620205003](https://github.com/user-attachments/assets/892a2225-9dd3-4471-b80c-a0166aba1ce4)
 <h1 align="left">Hi, I'm a young coder! 😃👨‍🏫</h1>
 
 ###
@@ -14,7 +15,8 @@
 
 ###
 
-<h2 align="left">I code with 🎇</h2>
+<h2 align="left">I code w![35 Sem Título_20250620205003](https://github.com/user-attachments/assets/a3f0ccba-40a9-4c81-837a-0202e12a8e06)
+ith 🎇</h2>
 
 ###
 
