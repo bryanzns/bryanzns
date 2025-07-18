@@ -1,6 +1,4 @@
-![35 Sem Título_20250620205003](https://github.com/user-attachments/assets/892a2225-9dd3-4471-b80c-a0166aba1ce4)
-
-<h1 align="left"># 🪵 Codepecker</h1>
+<h1 align="left"># 🪵 Peckerzns</h1>
 
 ###
 
