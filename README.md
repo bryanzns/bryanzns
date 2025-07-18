@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">Olá! Eu sou o desenvolvedor por trás da Codepecker. Criei essa identidade para reunir meus projetos, estudos e soluções de software.</h6>
+<h6 align="left">Olá! Eu sou o desenvolvedor por trás da peckerzns. Criei essa identidade para reunir meus projetos, estudos e soluções de software.</h6>
 
 ###
 
@@ -46,6 +46,6 @@
 
 ###
 
-<p align="center">© 2025 Codepecker (by Bryanzns) — Todos os projetos aqui foram feitos com 💻 e 🧠.</p>
+<p align="center">© 2025 peckerzns (by Bryanzns) — Todos os projetos aqui foram feitos com 💻 e 🧠.</p>
 
 ###
