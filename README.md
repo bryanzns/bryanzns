@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">• I 've been in the programming world for 1year!</p>
+<p align="left">• I 've been in the programming world for 2 year!</p>
 
 ###
 
